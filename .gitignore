@@ -1,0 +1,4 @@
+assets/
+results/
+.venv/
+.DS_Store
