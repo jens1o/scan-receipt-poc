@@ -35,7 +35,7 @@ This document outlines the technical details for our proof of concept software t
 To use our software, you must first install the necessary dependencies. Our software requires the following libraries and tools:
 - Python 3.11 or higher
 - OpenCV 4.7 or higher
-- Tesseract OCR 5.3 or higher with the German language data file
+- Tesseract OCR 5.3 or higher with the German language data file (Tip for macOS user: `brew install tesseract-lang`)
 
 Once you have installed these dependencies, you can download and install the PoC from the GitHub repository using the following command:
 
